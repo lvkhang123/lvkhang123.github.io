@@ -16,8 +16,19 @@ social: true  # includes social icons at the bottom of the page
 # under the supervision of Professor Jana Kosecka
 ---
 
-Hi, I'm Thuan. I'm an upcoming Ph.D. student in <a href='https://cs.gmu.edu/'>Department of Computer Science</a>, <a href='https://www.gmu.edu/'>George Mason University</a>. Previously, I earned my Master's degree in <a href='https://itc.pknu.ac.kr/eng/html/00_main/'>Deparment of Artificial Intelligence Convergence</a>, <a href='https://www.pknu.ac.kr/eng'>Pukyong National University</a> under the guidance of Professor Ki-Ryong Kwon at the MCSP Lab. I hold a Bachelor's degree in <a href='https://is.uel.edu.vn/'>Ecommerce, Faculty of Information Systems</a> at <a href='http://en.uel.edu.vn/'>University of Economics and Law, VNU-HCM</a>. My undergraduate advisor was Professor Hoanh-Su Le.
+Hello, my name is Khang Ly. 
 
-<b>Research</b>: artificial intelligence, weakly-supervised, point cloud processing, 3D reasoning, generative 3D
+I recently earned a Bachelor of Science in Physics, from <a href='https://www.gmu.edu/'>George Mason University</a>, with a minor in Psychology, concentrating on neuroscience. My academic path reflects a deep and ongoing passion for exploring the intersection of complex systems and human cognition - a convergence of physics, neuroscience, and mathematics that continually fuels my curiosity. 
+
+Currently, I am engaged in a collaborative research project with faculty in the <a href='https://science.gmu.edu/academics/departments-units/physics-and-astronomy-department'>Physics and Astronomy Department </a>, investigating nonlinear dynamical systems. Our focus is on modeling spiking and bursting behavior in neurons using the Rulkov map, with an emphasis on uncovering the fractal structures and chaotic dynamics that emerge under specific parameter conditions. 
+
+In parallel, I contribute to a neuroscience research initiative within the Cognitive and Behavioral Neuroscience group in the <a href='https://psychology.gmu.edu/'>Department of Psychology</a>. My responsibilities include data analysis of brain functional connectivity and dynamic activity, using fMRI and TMS datasets to better understanding cogntivie processes. 
+
+Outside of research, I participate in outreach efforts through the Mason Experimental Geometry Lab, where I help introduce young students to the beauty and creativity of mathematics through engaging, hands-on activities. 
+
+In my free time, I enjoy reading, listening to music, and playing badminton. As I prepare to pursue the MSc in Physics, I look forward to deepening my engagement with interdisciplinary research at the nexus of brain science and complex systems. 
+
+<b>Research</b> interests: complex systems, nonlinear dynamical systems, neuroscience
+
 
 
