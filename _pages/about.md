@@ -24,7 +24,7 @@ Currently, I am engaged in a collaborative research project with faculty in the 
 
 In parallel, I contribute to a neuroscience research initiative within the Cognitive and Behavioral Neuroscience group in the <a href='https://psychology.gmu.edu/'>Department of Psychology</a>. My responsibilities include data analysis of brain functional connectivity and dynamic activity, using fMRI and TMS datasets to better understanding cogntivie processes. 
 
-Outside of research, I participate in outreach efforts through the Mason Experimental Geometry Lab, where I help introduce young students to the beauty and creativity of mathematics through engaging, hands-on activities. 
+Outside of research, I participate in <a href='https://megl.science.gmu.edu/outreach/'>outreach</a> efforts through the <a href='https://megl.science.gmu.edu/outreach/'>Mason Experimental Geometry Lab</a>, where I help introduce young students to the beauty and creativity of mathematics through engaging, hands-on activities. 
 
 In my free time, I enjoy reading, listening to music, and playing badminton. As I prepare to pursue the MSc in Physics, I look forward to deepening my engagement with interdisciplinary research at the nexus of brain science and complex systems. 
 
