@@ -18,6 +18,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Thuan. I'm an upcoming Ph.D. student in <a href='https://cs.gmu.edu/'>Department of Computer Science</a>, <a href='https://www.gmu.edu/'>George Mason University</a>. Previously, I earned my Master's degree in <a href='https://itc.pknu.ac.kr/eng/html/00_main/'>Deparment of Artificial Intelligence Convergence</a>, <a href='https://www.pknu.ac.kr/eng'>Pukyong National University</a> under the guidance of Professor Ki-Ryong Kwon at the MCSP Lab. I hold a Bachelor's degree in <a href='https://is.uel.edu.vn/'>Ecommerce, Faculty of Information Systems</a> at <a href='http://en.uel.edu.vn/'>University of Economics and Law, VNU-HCM</a>. My undergraduate advisor was Professor Hoanh-Su Le.
 
-<b>Research Interest</b>: artificial intelligence, weakly-supervised, point cloud processing, 3D reasoning, generative 3D
+<b>Research</b>: artificial intelligence, weakly-supervised, point cloud processing, 3D reasoning, generative 3D
 
 
