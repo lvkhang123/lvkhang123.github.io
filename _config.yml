@@ -18,7 +18,7 @@ keywords: artificial intelligence, point cloud, deep learning, transformer  # ad
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://anhthuan1999.github.io # the base hostname & protocol for your site
+url: https://lvkhang123.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -71,16 +71,16 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: anhthuan1999 # your GitHub user name
+github_username: lvkhang123 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: anhthuan1999 # your Twitter handle
+#twitter_username: lvkhang123 # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: anh-thuan-tran-622370146 # your LinkedIn user name
+linkedin_username: khang-ly123 # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: bIdARZMAAAAJ # your Google Scholar ID
+#scholar_userid: bIdARZMAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0003-2134-5975 # your ORCID ID
+#orcid_id: 0000-0003-2134-5975 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -93,7 +93,7 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-dblp_url: https://dblp.org/pid/340/6139.html # your DBLP profile url
+#dblp_url: https://dblp.org/pid/340/6139.html # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
