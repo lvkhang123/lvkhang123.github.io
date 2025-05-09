@@ -6,7 +6,7 @@ subtitle: <br> Upcoming MSc Student at <a href='https://science.gmu.edu/academic
 
 profile:
   align: right
-  image: thuan_pic.jpg
+  image: Ly_pic.jpg
   image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items
