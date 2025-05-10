@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2022-11-05 00:00:00-0400
+date: 2023-04-19 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-1 paper <b>General Local Graph Attention in Large-Scale Point Cloud Segmentation</b> is accepted at IEEE ICCE 2023.
+
+Studied abroad at <b>Oxford University, Trinity College</b>, Hillary Term 2023, studied differential equation, linear algebra and developmental psychology. 

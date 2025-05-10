@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11-20 00:00:00-0400
+date: 2025-05-16 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Successfully defense master thesis
+Graduated from George Mason University 
