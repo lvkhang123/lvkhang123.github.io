@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Moved to the US from Vietnam 
+Graduated High School from <b>Cypress Creek High School </b>, Wesley Chapel, Florida
