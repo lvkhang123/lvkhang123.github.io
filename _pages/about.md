@@ -31,7 +31,7 @@ In my free time, I enjoy reading, listening to music, and playing badminton. As 
 <b>Research</b> interests: complex systems, nonlinear dynamical systems, neuroscience
 
 
-NOTES: THIS WEBSITE IS NOT COMPLETED! WORK IN PROGRESS...
+NOTES: THIS WEBSITE IS WORK IN PROGRESS...
 
 
 
