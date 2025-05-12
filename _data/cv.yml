@@ -2,22 +2,23 @@
   type: map
   contents:
    - name: Full Name
-     value: Anh-Thuan Tran
+     value: Khang Vi Ly
    - name: Date of Birth
-     value: 24th March 1999
+     value: November 29th, 2002
    - name: Languages
-     value: English, Vietnamese
+     value: English (fluent), Vietnamese (native), Chinese (basic), Japanese (basic), French (basic)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Point cloud processing
-      items: 
-        - Weakly-supervised segmentation
-        - Generative and Reconstruction
-    - title: 3D reasoning
-      items:
-        - Visual reasoning using 3D point cloud and NLP
+    - title: Complex systems 
+      # items: 
+      #   - Weakly-supervised segmentation
+      #   - Generative and Reconstruction
+    - title: Nonlinear dynamical systems
+      # items:
+      #   - Visual reasoning using 3D point cloud and NLP
+    - title: Neuroscience
         
 - title: Education
   type: time_table
