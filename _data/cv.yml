@@ -53,8 +53,9 @@
             - Introduction to MRI
     - title: Oxford Study Abroad Program (OSAP)
       institution: Oxford University, Oxford, England
-      year: Jan 2023 - Apr 2023 (Hillary Term, 2023)
+      year: Jan 2023 - Apr 2023 
       description:
+        - Hillary Term, 2023
         - "GPA: 3.73/4.0"
         - Semester-long study abroad program, studied mathematics and psychology.
         - title: Relevant coursework
@@ -101,10 +102,7 @@
     - title: Programming / Data analysis
       description:
       - Python - Primary programming tools to perform computational modelling of Rulkov map.
-      - title: Libraries
-        description: 
-        - Numpy, Matplotlib 
-      - MATLAB -  Filter data and perform data analysis using fMRI and TMS raw data. 
+      - MATLAB - Filter data and perform data analysis using fMRI and TMS raw data. 
     - title: Documentation
       description:
       - LaTeX - Experience writing research papers, taking notes, doing homework and creating presentation slides.  
