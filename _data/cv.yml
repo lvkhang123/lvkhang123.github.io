@@ -63,7 +63,7 @@
             - Differential Equation
             - Linear Algebra
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Undergraduate Research Assistant
@@ -73,6 +73,7 @@
       - Supervised by Dr. Paul So and Dr. Ernest Barreto. 
       - Perform computational modeling of spiking neuron activity of Rulkov map with tools such as linear maps, bifurcation diagrams, and basin of attractions using Python. 
       - Determine the fractal behavior of Rulkov map's basin of attraction through computational and mathematical analysis. 
+
     - title: Graduate Research Assistant 
       institution: Arch Laboratory, Department of Psychology, George Mason University, Fairfax, Virginia, United States.
       year: Jan 2025 - Present
@@ -128,15 +129,45 @@
 - title: Honors and Awards
   type: time_table
   contents:
+      
+    - title: Mason Excellence Scholarship ($19,000)
+      institution: George Mason University
+      year: Aug. 2021 - Spring 2024
+      description:
+      - Awarded annually for three consecutive years for maintaning excellent academic standing and scholastic achievement. 
+
     - title: Virginia Commonwealth Award ($7,100)
       institution: George Mason University
       year: Aug. 2024 - May 2025
       description:
       - An award for a domiciliary resident of Virginia maintaning excellent academic standing and scholastic achievement. 
+
+    - title: Undergraduate Scholarship Fall ($2,000)
+      institution: George Mason University 
+      year: Aug. 2023 - Dec. 2023
+      description: 
+      - Scholarship for undergraduate students in the Fall Semester of 2023 - 2024 school year. 
+
+- title: Teaching Experience 
+  type: time_table 
+  contents: 
+  - title: Undergraduate Learning Assistant
+    institution: Department of Physics and Astronomy, George Mason University, Fairfax, Virginia, United States.
+    year: Jan. 2025 - May. 2025
+    description:
+      -  Attend classes and guide students solvng physics problems in an active learning classroom environment. 
+      - Assist students on physics homework in office hours. 
+
+  - title: Undergraduate Learning Assistant 
+    institution:  Department of Physics and Astronomy, George Mason University, Fairfax, Virginia, United States.
+    year: Aug. 2023 - Dec. 2023
+    description:
+      - Provided constructive explanations to solve "Electricity and Magnetism" homework problems to 3 or 4 students during weekly office hours and through email correspondence.
+      - Presented in a poster session to share ideas on how to implement cognitive mental models in teaching physics.  
+
       
-    - year: 2021
-      items: 
-        - IBM Data Science Certificate
+
+  
 
 
 
