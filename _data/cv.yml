@@ -132,7 +132,7 @@
       
     - title: Mason Excellence Scholarship ($19,000)
       institution: George Mason University
-      year: Aug. 2021 - Spring 2024
+      year: Aug. 2021 - May 2024
       description:
       - Awarded annually for three consecutive years for maintaning excellent academic standing and scholastic achievement. 
 
@@ -165,7 +165,48 @@
       - Provided constructive explanations to solve "Electricity and Magnetism" homework problems to 3 or 4 students during weekly office hours and through email correspondence.
       - Presented in a poster session to share ideas on how to implement cognitive mental models in teaching physics.  
 
-      
+- title: Professional Services
+  type: time_table
+  contents: 
+  - title: Outreach Intern
+    institution: Mason Experimental Geometry Lab (MEGL), George Mason University, Fairfax, Viriginia, United States
+    year: Feb. 2024 - May 2025
+    description: 
+      - Lead 1-2 mathematics activities weekly to 20-50 K-12 students.
+      - Attend weekly meeting to share updates relate to the program.
+      - Emply LaTeX to update PowerPoint slides that are use for the activity. 
+
+- title: Professional Affiliations
+  type: time_table
+  contents: 
+  - title: American Physical Society (APS)
+    year: Jun. 2024 - Present
+  - title: GMU Physics and Astronomy Society 
+    year: Aug. 2023 - Present 
+  - title: GMU Mathematics Society 
+    year: Jan. 2025 - Present 
+
+- title: References 
+  type: nested_list
+  contents: 
+  - title: Paul T.So, PhD (Research Supervisor)
+    description: 
+      - Professor
+      - Department of Physics and Astronomy, George Mason University
+      - (703) 993-4377
+      - paso@gmu.edu
+  - title: James C.Thompson, PhD (Lecturer)
+    description: 
+      - Professor 
+      - Department of Psychology, George Mason University
+      - (703) 993-9356
+      - jthompsz@gmu.edu
+  - title: Rosemberg Toala-Enriquez, PhD (MEGL Outreach Director)
+    description: 
+      - Instructional Assistant Professor
+      - Department of Mathematical Sciences, George Mason University
+      - rtoalaen@gmu.edu
+
 
   
 
