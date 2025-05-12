@@ -1,6 +1,6 @@
 - title: General Information
-type: map
- contents:
+  type: map
+  contents:
    - name: Full Name
      value: Anh-Thuan Tran
    - name: Date of Birth
