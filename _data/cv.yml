@@ -27,7 +27,7 @@
   contents:
     - title: Master of Science, Physics
       institution: Deparment of Physics and Astronomy, George Mason University, Fairfax, Virginia, United States
-      year: August 2025 - Present
+      year: Aug 2025 - Present
       description:
         #- "GPA: 4.4/4.5"
         #- title: Relevant coursework
@@ -39,7 +39,7 @@
           #   - Advanced Artificial Intelligence
     - title: Bachelor of Science, Physics and Psychology minor
       institution: Department of Physics and Astronomy, George Mason University, Fairfax, Virginia, United States
-      year: August 2021 - May 2025
+      year: Aug 2021 - May 2025
       description:
         - "GPA: 3.31/4.0"
         - title: Relevant coursework
@@ -59,21 +59,21 @@
   contents:
     - title: Undergraduate Research Assistant
       institution: Department of Physics and Astronomy, George Mason University, Fairfax, Virginia, United States.
-      year: November 2023 - Present
+      year: Nov 2023 - Present
       description:
       - Supervised by Dr. Paul So and Dr. Ernest Barreto. 
       - Perform computational modeling of spiking neuron activity of Rulkov map with tools such as linear maps, bifurcation diagrams, and basin of attractions using Python. 
       - Determine the fractal behavior of Rulkov map's basin of attraction through computational and mathematical analysis. 
     - title: Graduate Research Assistant 
       institution: Arch Laboratory, Department of Psychology, George Mason University, Fairfax, Virginia, United States.
-      year: January 2025 - Present
+      year: Jan 2025 - Present
       description:
       - Supervised by Dr. James Thompson
       - Analyze fMRI and TMS data to study the functional connectivity of brain dynamics. 
 
     - title: Undergraduate Research Assistant
       institution: Arch Laboratory, Department of Psychology, George Mason University, Fairfax, Virginia, United States.
-      year: January 2024 - April 2024
+      year: Jan 2024 - Apr 2024
       description:
         - Work under Ph.D candidate Lindsay Shaffer in the Cognitive and Behavioral Neuroscience, with research on reward positivity.
         - Assist setting up electroencephalography (EEG) experiments by recruiting and scheduling participants, collecting data, and assist graduate students researchers with data analysis. 
@@ -82,7 +82,7 @@
   type: time_table
   contents:
     - title: Rulkov Map neurons
-      year: November 2023 - now
+      year: Nov 2023 - now
       description:
       - Analyze the spiking and bursting behavior of neurons. 
       - Examine the chaos and fractality of the linear map under different parameters.
