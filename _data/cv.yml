@@ -91,7 +91,7 @@
   type: time_table
   contents:
     - title: Rulkov Map neurons
-      year: Nov 2023 - now
+      year: Nov. 2023 - now
       description:
       - Analyze the spiking and bursting behavior of neurons. 
       - Examine the chaos and fractality of the linear map under different parameters.
@@ -113,14 +113,27 @@
 - title: Presentation
   type: time_table
   contents:
-    - title: 
+    - title: Mason Experimental Geometry Laboratory Poster Session
+      institution: George Mason University
+      year: May 2rd, 2025
+      description: 
+      - Mason Experimental Geometry Lab Spring 2025 Outreach Team Poster
+
+    - title: Learning Assistant Poster Session
+      institution: George Mason University
+      year: December 5th, 2023
+      description: 
+      - Cognitive mental model -  Solutions to future physics teaching 
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
-      items: 
-        - Google Data Analytics Certificate
+    - title: Virginia Commonwealth Award ($7,100)
+      institution: George Mason University
+      year: Aug. 2024 - May 2025
+      description:
+      - An award for a domiciliary resident of Virginia maintaning excellent academic standing and scholastic achievement. 
+      
     - year: 2021
       items: 
         - IBM Data Science Certificate
