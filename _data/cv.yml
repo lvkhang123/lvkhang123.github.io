@@ -110,6 +110,11 @@
       description:
       - OriginPro - Plotting software for modeling of Rulkov map. 
 
+- title: Presentation
+  type: time_table
+  contents:
+    - title: 
+
 - title: Honors and Awards
   type: time_table
   contents:
