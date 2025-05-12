@@ -4,9 +4,9 @@
    - name: Full Name
      value: Anh-Thuan Tran
    - name: Date of Birth
-      value: 24th March 1999
-    - name: Languages
-      value: English, Vietnamese
+     value: 24th March 1999
+   - name: Languages
+     value: English, Vietnamese
 
 - title: Academic Interests
   type: nested_list
