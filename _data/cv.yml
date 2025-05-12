@@ -12,91 +12,80 @@
   type: nested_list
   contents:
     - title: Complex systems 
-      # items: 
-      #   - Weakly-supervised segmentation
-      #   - Generative and Reconstruction
+      items: 
+         - Studies of complex systems such as the human brain
     - title: Nonlinear dynamical systems
-      # items:
-      #   - Visual reasoning using 3D point cloud and NLP
+      items:
+         - Chaos theory 
     - title: Neuroscience
-        
+      items: 
+         - Brain dynamics
+         - Neuroimaging
+
 - title: Education
   type: time_table
   contents:
-    - title: Master of Engineering
-      institution: Deparment of Artificial Intelligence Convergence, Pukyong National University, Busan, South Korea
-      year: 2022 - now
+    - title: Master of Science, Physics
+      institution: Deparment of Physics and Astronomy, George Mason University, Fairfax, Virginia, United States
+      year: August 2025 - Present
       description:
-        - "GPA: 4.4/4.5"
+        #- "GPA: 4.4/4.5"
+        #- title: Relevant coursework
+          # contents:
+          #   - Neural Network
+          #   - Statistical Learning Model
+          #   - Optimization for AI
+          #   - Artificial Intelligence Programming
+          #   - Advanced Artificial Intelligence
+    - title: Bachelor of Science, Physics and Psychology minor
+      institution: Department of Physics and Astronomy, George Mason University, Fairfax, Virginia, United States
+      year: August 2021 - May 2025
+      description:
+        - "GPA: 3.31/4.0"
         - title: Relevant coursework
           contents:
-            - Neural Network
-            - Statistical Learning Model
-            - Optimization for AI
-            - Artificial Intelligence Programming
-            - Advanced Artificial Intelligence
-    - title: Bachelor of Economics
-      institution: Faculty of Information Systems, University of Economics and Law, Vietnam National University, Ho Chi Minh City, Vietnam
-      year: 2017 - 2021
-      description:
-        - "GPA: 7.8/10"
-        - title: Relevant coursework
-          contents:
-            - Data Structure and Algorithm
-            - Probability Theory
-            - Information System Analysis and Design
-            - Web Data Analysis 
-            - E-Commerce Security
-            - E-Commerce Strategies
-            - E-Payment
+            - Analytical Methods of Physics 
+            - Classical Mechanics
+            - Thermal Physics
+            - Computational Methods in Physics 
+            - Multivariable Calculus
+            - Differential Equation
+            - Linear Algebra
+            - Cognitive Psychology
+            - Introduction to MRI
 
 - title: Experience
   type: time_table
   contents:
-    - title: Graduate Research Assistant
-      institution: MCSP Lab, Pukyong National University, Busan, South Korea.
-      year: 2022 - now
+    - title: Undergraduate Research Assistant
+      institution: Department of Physics and Astronomy, George Mason University, Fairfax, Virginia, United States.
+      year: November 2023 - Present
       description:
-      - Working on 4D point cloud panoptic segmentation. The architecture is build upon point-based methods and previous Transformer attention mechanisms.
-      - Proposing point-based Transformer architecture in weakly-supervised 3D point cloud segmentation. The network outperform other fully-supervised methods using only 0.1% point annotations.
-
-    - title: Data Research Analyst
-      institution: Tuan Loc Commodities, Ho Chi Minh City Vietnam.
-      year: 2021-2022
+      - Supervised by Dr. Paul So and Dr. Ernest Barreto. 
+      - Perform computational modeling of spiking neuron activity of Rulkov map with tools such as linear maps, bifurcation diagrams, and basin of attractions using Python. 
+      - Determine the fractal behavior of Rulkov map's basin of attraction through computational and mathematical analysis. 
+    - title: Graduate Research Assistant 
+      institution: Arch Laboratory, Department of Psychology, George Mason University, Fairfax, Virginia, United States.
+      year: January 2025 - Present
       description:
-      - Exporting reports monthly in docx and pptx format automatically using python with data visualization and corresponding text description directly from SQL Server.
-      - Building forecasting model and backtest strategy to forecast future price in the coffee market combined with the actual stock. Manage and update master data with predefined features, Building appropriate the backtest strategy and compare with current strategies (Momentum, Mean Reverse, Pair Trading,..)
+      - Supervised by Dr. James Thompson
+      - Analyze fMRI and TMS data to study the functional connectivity of brain dynamics. 
 
     - title: Undergraduate Research Assistant
-      institution: GB AI Lab, Ho Chi Minh City, Vietnam.
-      year: 2020 - 2021
+      institution: Arch Laboratory, Department of Psychology, George Mason University, Fairfax, Virginia, United States.
+      year: January 2024 - April 2024
       description:
-        - Building complete solutions for smart classroom applied AI specialized in computer vision including face recognition and emotion detection.
-        - Implement machine learning and deep learning model for face detection. Transfer learning by using deep learning models for emotion classification.
-        - Building clustering algorithm that suggest location for school planning and visualizing results on map.
-        - Proposing function that covers the operating cost and individual cost for changing school location and algorithm to suggest students change current school with appropriate capacity.
-
+        - Work under Ph.D candidate Lindsay Shaffer in the Cognitive and Behavioral Neuroscience, with research on reward positivity.
+        - Assist setting up electroencephalography (EEG) experiments by recruiting and scheduling participants, collecting data, and assist graduate students researchers with data analysis. 
+        - Participate in the design, administration, and maintenance of psychophysical EEG experiments by programming aspects of the experiment and providing technical troubleshooting. 
 - title: Technical Projects
   type: time_table
   contents:
-    - title: Point cloud segmentation
-      year: 2022 - now
+    - title: Rulkov Map neurons
+      year: November 2023 - now
       description:
-      - Building point-based Transformer network for segmentation tasks using limited point annotations in large-scale indoor and outdoor point clouds.
-      - Proposing Transformer architecture for panoptic segmentation in point cloud sequences.
-    - title: Algorithmic trading
-      year: 2021 - 2022
-      description: Applying machine learning model in forecasting (Prophet) and building corresponding backtesting strategies on Backtrader platform.
-    - title: AI-based Smart Classroom
-      year: 2021 - 2022
-      description: 
-      - Applying current machine learning models in smart classrooms for attendance, exam verification, and teaching evaluation tasks.
-      - Analysing model outputs and visualizing results into corresponding charts.
-    - title: Opinion mining with Vietnamese text
-      year: 2019 - 2020
-      description: 
-      - "News: Gather news, comments in the Smartphone industry in Vietnamese online newspapers and using machine learning to classify them."
-      - "Product reviews: Building the semi-supervised sentimental model to classify online reviews on an e-commerce market."
+      - Analyze the spiking and bursting behavior of neurons. 
+      - Examine the chaos and fractality of the linear map under different parameters.
 
 - title: Honors and Awards
   type: time_table
