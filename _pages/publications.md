@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /publications/
 title: Publications
@@ -16,4 +16,4 @@ wacv_pdf: ThuanTran_WACV2024.pdf
   {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
 {% endfor %}
 
-</div>
+</div> -->
