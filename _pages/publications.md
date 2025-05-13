@@ -8,7 +8,7 @@ nav: true
 nav_order: 1
 wacv_pdf: ThuanTran_WACV2024.pdf
 ---
-_pages/publications.md
+<!-- _pages/publications.md -->
 <div class="publications">
 
 {%- for y in page.years %}
