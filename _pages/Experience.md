@@ -8,8 +8,8 @@ nav: true
 nav_order: 1
 #wacv_pdf: ThuanTran_WACV2024.pdf
 ---
-<!-- _pages/publications.md -->
+<!-- _pages/experience.md -->
 <div class="experience">
 
 
-</div> -->
+</div> Research Experience, Teaching Experience, Work Experience
