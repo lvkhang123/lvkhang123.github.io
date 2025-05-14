@@ -1,0 +1,209 @@
+- title: General Information
+  type: map
+  contents:
+   - name: Full Name
+     value: Khang Vi Ly
+   - name: Date of Birth
+     value: November 29th, 2002
+   - name: Languages
+     value: English (fluent), Vietnamese (native), Chinese (basic), Japanese (basic), French (basic)
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Complex systems 
+      items: 
+         - Studies of complex systems such as the human brain
+    - title: Nonlinear dynamical systems
+      items:
+         - Chaos theory 
+    - title: Neuroscience
+      items: 
+         - Brain dynamics
+         - Neuroimaging
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master of Science, Physics
+      institution: Deparment of Physics and Astronomy, George Mason University, Fairfax, Virginia, United States
+      year: Aug 2025 - Present
+      description:
+        #- "GPA: 4.4/4.5"
+        #- title: Relevant coursework
+          # contents:
+          #   - Neural Network
+          #   - Statistical Learning Model
+          #   - Optimization for AI
+          #   - Artificial Intelligence Programming
+          #   - Advanced Artificial Intelligence
+    - title: Bachelor of Science, Physics and Psychology minor
+      institution: Department of Physics and Astronomy, George Mason University, Fairfax, Virginia, United States
+      year: Aug 2021 - May 2025
+      description:
+        - "GPA: 3.31/4.0"
+        - title: Relevant coursework
+          contents:
+            - Analytical Methods of Physics 
+            - Classical Mechanics
+            - Thermal Physics
+            - Computational Methods in Physics 
+            - Multivariable Calculus
+            - Cognitive Psychology
+            - Introduction to MRI
+    - title: Oxford Study Abroad Program (OSAP)
+      institution: Oxford University, Oxford, England
+      year: Jan 2023 - Apr 2023 
+      description:
+        - Hillary Term, 2023
+        - "GPA: 3.73/4.0"
+        - Semester-long study abroad program, studied mathematics and psychology.
+        - title: Relevant coursework
+          contents:
+            - Differential Equation
+            - Linear Algebra
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Undergraduate Research Assistant
+      institution: Department of Physics and Astronomy, George Mason University, Fairfax, Virginia, United States.
+      year: Nov 2023 - Present
+      description:
+      - Supervised by Dr. Paul So and Dr. Ernest Barreto. 
+      - Perform computational modeling of spiking neuron activity of Rulkov map with tools such as linear maps, bifurcation diagrams, and basin of attractions using Python. 
+      - Determine the fractal behavior of Rulkov map's basin of attraction through computational and mathematical analysis. 
+
+    - title: Graduate Research Assistant 
+      institution: Arch Laboratory, Department of Psychology, George Mason University, Fairfax, Virginia, United States.
+      year: Jan 2025 - Present
+      description:
+      - Supervised by Dr. James Thompson
+      - Analyze fMRI and TMS data to study the functional connectivity of brain dynamics. 
+
+    - title: Undergraduate Research Assistant
+      institution: Arch Laboratory, Department of Psychology, George Mason University, Fairfax, Virginia, United States.
+      year: Jan 2024 - Apr 2024
+      description:
+        - Work under Ph.D candidate Lindsay Shaffer in the Cognitive and Behavioral Neuroscience, with research on reward positivity.
+        - Assist setting up electroencephalography (EEG) experiments by recruiting and scheduling participants, collecting data, and assist graduate students researchers with data analysis. 
+        - Participate in the design, administration, and maintenance of psychophysical EEG experiments by programming aspects of the experiment and providing technical troubleshooting. 
+- title: Technical Projects
+  type: time_table
+  contents:
+    - title: Rulkov Map neurons
+      year: Nov. 2023 - now
+      description:
+      - Analyze the spiking and bursting behavior of neurons. 
+      - Examine the chaos and fractality of the linear map under different parameters.
+
+- title: Research Skills
+  type: time_table
+  contents:
+    - title: Programming / Data analysis
+      description:
+      - Python - Primary programming tools to perform computational modelling of Rulkov map.
+      - MATLAB - Filter data and perform data analysis using fMRI and TMS raw data. 
+    - title: Documentation
+      description:
+      - LaTeX - Experience writing research papers, taking notes, doing homework and creating presentation slides.  
+    - title: Others
+      description:
+      - OriginPro - Plotting software for modeling of Rulkov map. 
+
+- title: Presentation
+  type: time_table
+  contents:
+    - title: Mason Experimental Geometry Laboratory Poster Session
+      institution: George Mason University
+      year: May 2rd, 2025
+      description: 
+      - Mason Experimental Geometry Lab Spring 2025 Outreach Team Poster
+
+    - title: Learning Assistant Poster Session
+      institution: George Mason University
+      year: December 5th, 2023
+      description: 
+      - Cognitive mental model -  Solutions to future physics teaching 
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+      
+    - title: Mason Excellence Scholarship ($19,000)
+      institution: George Mason University
+      year: Aug. 2021 - May 2024
+      description:
+      - Awarded annually for three consecutive years for maintaning excellent academic standing and scholastic achievement. 
+
+    - title: Virginia Commonwealth Award ($7,100)
+      institution: George Mason University
+      year: Aug. 2024 - May 2025
+      description:
+      - An award for a domiciliary resident of Virginia maintaning excellent academic standing and scholastic achievement. 
+
+    - title: Undergraduate Scholarship Fall ($2,000)
+      institution: George Mason University 
+      year: Aug. 2023 - Dec. 2023
+      description: 
+      - Scholarship for undergraduate students in the Fall Semester of 2023 - 2024 school year. 
+
+- title: Teaching Experience 
+  type: time_table 
+  contents: 
+  - title: Undergraduate Learning Assistant
+    institution: Department of Physics and Astronomy, George Mason University, Fairfax, Virginia, United States.
+    year: Jan. 2025 - May. 2025
+    description:
+      -  Attend classes and guide students solvng physics problems in an active learning classroom environment. 
+      - Assist students on physics homework in office hours. 
+
+  - title: Undergraduate Learning Assistant 
+    institution:  Department of Physics and Astronomy, George Mason University, Fairfax, Virginia, United States.
+    year: Aug. 2023 - Dec. 2023
+    description:
+      - Provided constructive explanations to solve "Electricity and Magnetism" homework problems to 3 or 4 students during weekly office hours and through email correspondence.
+      - Presented in a poster session to share ideas on how to implement cognitive mental models in teaching physics.  
+
+- title: Professional Services
+  type: time_table
+  contents: 
+  - title: Outreach Intern
+    institution: Mason Experimental Geometry Lab (MEGL), George Mason University, Fairfax, Viriginia, United States
+    year: Feb. 2024 - May 2025
+    description: 
+      - Lead 1-2 mathematics activities weekly to 20-50 K-12 students.
+      - Attend weekly meeting to share updates relate to the program.
+      - Emply LaTeX to update PowerPoint slides that are use for the activity. 
+
+- title: Professional Affiliations
+  type: time_table
+  contents: 
+  - title: American Physical Society (APS)
+    year: Jun. 2024 - Present
+  - title: GMU Physics and Astronomy Society 
+    year: Aug. 2023 - Present 
+  - title: GMU Mathematics Society 
+    year: Jan. 2025 - Present 
+
+- title: References 
+  type: nested_list
+  contents: 
+  - title: Paul T.So, PhD (Research Supervisor)
+    description: 
+      - Professor
+      - Department of Physics and Astronomy, George Mason University
+      - (703) 993-4377
+      - paso@gmu.edu
+  - title: James C.Thompson, PhD (Lecturer)
+    description: 
+      - Professor 
+      - Department of Psychology, George Mason University
+      - (703) 993-9356
+      - jthompsz@gmu.edu
+  - title: Rosemberg Toala-Enriquez, PhD (MEGL Outreach Director)
+    description: 
+      - Instructional Assistant Professor
+      - Department of Mathematical Sciences, George Mason University
+      - rtoalaen@gmu.edu
+
