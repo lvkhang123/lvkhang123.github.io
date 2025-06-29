@@ -28,7 +28,7 @@ Outside of research, I participate in <a href='https://megl.science.gmu.edu/outr
 
 In my free time, I enjoy reading, listening to music, and playing badminton. As I prepare to pursue the MSc in Physics, I look forward to deepening my engagement with interdisciplinary research at the nexus of brain science and complex systems. 
 
-<b>Research</b> interests: complex systems, nonlinear dynamical systems, neuroscience
+<b>Research</b> interests: nonequilibrium-physics, complex systems, nonlinear dynamical systems, neuroscience
 
 
 NOTES: THIS WEBSITE IS WORK IN PROGRESS...
