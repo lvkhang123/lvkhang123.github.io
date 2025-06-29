@@ -12,8 +12,8 @@ nav_order: 1
 <div class="experience">
 
 
-Research Experience, Teaching Experience, Work Experience
+</div> Research Experience, Teaching Experience, Work Experience
 
-Undergraduate research: 
+</div> Undergraduate research: 
 
-Dr. So - dynamical systems of neuron map
+</div> Dr. So - dynamical systems of neuron map
